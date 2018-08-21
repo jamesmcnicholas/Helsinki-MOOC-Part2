@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week10-week10_31.FarmSimulator" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="farmsimulator.Main" />
+    <module name="week10-week10_31.FarmSimulator" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
