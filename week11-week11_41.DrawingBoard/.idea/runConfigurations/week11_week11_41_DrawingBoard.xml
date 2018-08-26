@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="week11-week11_41.DrawingBoard" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="drawing.ui.Main" />
+    <module name="week11-week11_41.DrawingBoard" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method />
+  </configuration>
+</component>
